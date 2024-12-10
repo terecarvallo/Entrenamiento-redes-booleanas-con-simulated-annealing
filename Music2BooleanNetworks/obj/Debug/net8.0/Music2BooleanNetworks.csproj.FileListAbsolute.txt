@@ -1,0 +1,14 @@
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/bin/Debug/net8.0/Music2BooleanNetworks
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/bin/Debug/net8.0/Music2BooleanNetworks.deps.json
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/bin/Debug/net8.0/Music2BooleanNetworks.runtimeconfig.json
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/bin/Debug/net8.0/Music2BooleanNetworks.dll
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/bin/Debug/net8.0/Music2BooleanNetworks.pdb
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/Music2BooleanNetworks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/Music2BooleanNetworks.AssemblyInfoInputs.cache
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/Music2BooleanNetworks.AssemblyInfo.cs
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/Music2BooleanNetworks.csproj.CoreCompileInputs.cache
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/Music2BooleanNetworks.dll
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/refint/Music2BooleanNetworks.dll
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/Music2BooleanNetworks.pdb
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/Music2BooleanNetworks.genruntimeconfig.cache
+/Users/terecarvallo/Documents/Material 2024-2/Investigación/Music2BooleanNetworks/obj/Debug/net8.0/ref/Music2BooleanNetworks.dll
